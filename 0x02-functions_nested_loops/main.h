@@ -1,5 +1,2 @@
-void _putchar(char)
-{
-
-}
+char _putchar();
 
